@@ -1,0 +1,11 @@
+export { acumularPuntos } from './AcumularPuntos.js';
+export { crearCarta } from './CrearCarta.js';
+export { crearDeck } from './CrearDeck.js';
+export { determinarGanador } from './DeterminarGanador.js';
+export { eventHandler } from './EventHandler.js';
+export { inicializarJuego } from './InicializarJuego.js';
+export { pedirCarta } from './PedirCarta.js';
+export { turnoComputadora } from './TurnoComputadora.js';
+export { turnoJugador } from './TurnoJugador.js';
+export { valorCarta } from './ValorCarta.js';
+export { visualElementsHandler } from './VisualElementsHandler.js';
