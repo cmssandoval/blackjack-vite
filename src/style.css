@@ -1,0 +1,22 @@
+html, body {
+    background-color: #2d7930;
+    color: white;
+}
+
+.div-botones button {
+    font-size: .9rem;
+}
+
+.carta {
+    position: relative;
+    width: 7.7rem;
+    left: 2rem;
+    margin-left: -4rem;
+}
+
+#cartas-computadora, #cartas-jugador {
+    padding-top: 0.5rem;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}
