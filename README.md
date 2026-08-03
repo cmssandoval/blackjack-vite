@@ -1,6 +1,6 @@
-# Juego Blackjack con JavaScript (Refactorizado)
+# Juego Blackjack con JavaScript y Vite (Refactorizado)
 
-Esta es una refactorización del juego que hice de los ejercicios de Fernando Herrera.
+Esta es una refactorización con Vite del juego que hice del ejercicio de Blackjack de Fernando Herrera.
 
 [**> Repositorio - Juego BlackJack con JavaScript**](https://github.com/cmssandoval/JS-Blackjack)
 
