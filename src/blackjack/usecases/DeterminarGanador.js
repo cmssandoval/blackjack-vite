@@ -13,7 +13,7 @@ export const determinarGanador = (puntosJugadores) => {
         } else if (puntosMinimos > 21) {
             console.warn('La computadora gana')
             alert('La computadora gana')
-        } else if (puntosComputadora > 21) {
+        } else if ((puntosComputadora > 21) || (puntosMinimos === 21 && puntosComputadora < 21)) {
             console.warn('El jugador gana')
             alert('El jugador gana')
         } else {
