@@ -10,7 +10,6 @@ export const crearCarta = (carta, turno, divCartasJugadores) => {
 
     const imgCarta = document.createElement('img');
     imgCarta.src = `${import.meta.env.BASE_URL}cartas/${carta}.png`;
-    console.log(carta);
     
     imgCarta.classList.add('carta');
     divCartasJugadores[turno].append(imgCarta);
